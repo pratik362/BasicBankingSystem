@@ -1,0 +1,83 @@
+h6
+{
+
+}
+
+
+.btn1 
+{ 
+ width:200px;
+    height:70px;
+    background: linear-gradient(to left top, #c32c71 50%, #b33771 50%);
+    border-style: none;
+    color:#fff;
+    font-size: 23px;
+    letter-spacing: 3px;
+    font-family: 'Lato';
+    font-weight: 600;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+    padding: 0px;
+    overflow: hidden;
+    transition: all .5s;
+    box-shadow: 0px 1px 2px rgba(0,0,0,.2);
+
+/*
+height:35px;
+width:259px;
+background-color:lightseagreen;
+color:white;
+font-size:16px;
+border:1px solid black;*/
+}
+
+.btn1:hover 
+{
+background-color:green;
+color:black;
+}
+
+.btn1:focus
+{
+	
+background-color:white;
+radius:5px;
+color:black;
+}
+
+
+.btn2 
+{ 
+
+
+ width:200px;
+    height:70px;
+    background: linear-gradient(to left top, #c32c71 50%, #b33771 50%);
+    border-style: none;
+    color:#fff;
+    font-size: 23px;
+    letter-spacing: 3px;
+    font-family: 'Lato';
+    font-weight: 600;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+    padding: 0px;
+    overflow: hidden;
+    transition: all .5s;
+    box-shadow: 0px 1px 2px rgba(0,0,0,.2);
+}
+
+
+.btn2:hover 
+{
+background-color:green;
+color:black;
+}
+
+.btn2:focus
+{
+background-color:coral;
+color:black;
+}
